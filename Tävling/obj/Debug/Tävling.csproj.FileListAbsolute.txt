@@ -1,0 +1,7 @@
+C:\Users\Elev\source\repos\Tävling\obj\Debug\Tävling.csprojAssemblyReference.cache
+C:\Users\Elev\source\repos\Tävling\obj\Debug\Tävling.csproj.CoreCompileInputs.cache
+C:\Users\Elev\source\repos\Tävling\bin\Debug\Tävling.exe.config
+C:\Users\Elev\source\repos\Tävling\bin\Debug\Tävling.exe
+C:\Users\Elev\source\repos\Tävling\bin\Debug\Tävling.pdb
+C:\Users\Elev\source\repos\Tävling\obj\Debug\Tävling.exe
+C:\Users\Elev\source\repos\Tävling\obj\Debug\Tävling.pdb
