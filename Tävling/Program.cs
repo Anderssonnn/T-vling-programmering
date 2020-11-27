@@ -24,11 +24,16 @@ namespace Tävling
             Console.WriteLine("Tjänade kronor av päron:" + pear*antalps);
             int tpp = pear * antalps;
 
-            if (tpa < tpp)
+            if (tpa < tpp) {
                 Console.WriteLine("Petra har tjänat mest.");
-
+            }
+            else if (tpa == tpp) {
+                Console.WriteLine("Båda har tjänat lika mycket");
+            }
             else
+            {
                 Console.WriteLine("Axel har tjänat mest.");
+            }
         }
     }
 }
